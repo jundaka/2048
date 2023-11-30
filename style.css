@@ -11,6 +11,15 @@
     font-family: 'Poppins', sans-serif;
 }
 
+p{
+    font-size: large;
+    flex-wrap: wrap;
+}
+
+a{
+    font-size: large;
+    color: yellowgreen;    
+}
 :root {
     --bg-color: #081b29;
     --second-bg-color: #112e42;
@@ -29,6 +38,7 @@ body {
 }
 
 .header {
+    background-color: purple;
     position: fixed;
     top: 0;
     left: 0;
